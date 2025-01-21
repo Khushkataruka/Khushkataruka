@@ -44,7 +44,7 @@
 - Repository: [GitHub Link](https://github.com/Khushkataruka/Swastik)
 - Demo:[Live Demo](https://www.swastikpathology.com/)
 
-*### 3. Real-Estate Price Prediction
+### 3. Real-Estate Price Prediction
 - Description: This project predicts real estate prices based on user-provided input features, such as location, size, and number of rooms. It integrates a machine learning model with an interactive frontend for a seamless user experience.
 - Tech Stack: Python, Jupyter Notebook,React,Flask server
 - Repository: [GitHub Link](https://github.com/Khushkataruka/Real-Estate-Project)
