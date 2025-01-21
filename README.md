@@ -75,4 +75,12 @@
 ## 🤝 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/khush-kataruka-7194822a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Khushkataruka"><img src="https://img.shields.io/badge/Git
+  <a href="https://github.com/Khushkataruka"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=04khushkat@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Khushkataruka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</div>
